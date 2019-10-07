@@ -5,6 +5,10 @@ The Idea about this project is to show the scoreboard of EPL season 2011-12 by u
 The json data are in matches.js and teams.js which are imported by the App.js to show the score board by manipulating the json.
 ## Available Scripts
 
+First clone the project,after that
+in the project
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
